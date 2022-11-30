@@ -1,0 +1,12 @@
+Time : 13:52:45
+SQLSTATE[42000]: Syntax error or access violation: 1103 Incorrect table name ''
+Raw SQL : INSERT INTO `` (`stock`,`retrieve_date`,`security_type`,`action`,`action_detail`)
+			VALUES (:stock,:retrieve_date,:security_type,:action,:action_detail)
+
+Time : 13:52:14
+SQLSTATE[42000]: Syntax error or access violation: 1103 Incorrect table name ''
+Raw SQL : INSERT INTO `` (`stock`,`retrieve_date`,`security_type`,`action`,`action_detail`)
+			VALUES (:stock,:retrieve_date,:security_type,:action,:action_detail)
+
+Time : 13:51:32
+SQLSTATE[HY000] [2002] Connection refused

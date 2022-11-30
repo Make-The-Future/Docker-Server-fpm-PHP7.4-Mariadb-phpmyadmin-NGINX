@@ -1,0 +1,6 @@
+2021/06/14 07:16:18 [error] 11#11: *2 directory index of "/var/www/public/" is forbidden, client: 172.22.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8172"
+2021/06/14 07:16:18 [error] 11#11: *2 open() "/var/www/public404" failed (2: No such file or directory), client: 172.22.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8172", referrer: "http://localhost:8172/"
+2021/06/14 07:16:22 [error] 10#10: *1 directory index of "/var/www/public/" is forbidden, client: 172.22.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8172"
+2021/06/14 07:16:24 [error] 11#11: *2 directory index of "/var/www/public/" is forbidden, client: 172.22.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8172"
+2021/06/14 07:17:30 [error] 10#10: *1 directory index of "/var/www/public/" is forbidden, client: 172.22.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8172"
+2021/06/14 07:17:44 [error] 10#10: *1 directory index of "/var/www/public/" is forbidden, client: 172.22.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:8172"
